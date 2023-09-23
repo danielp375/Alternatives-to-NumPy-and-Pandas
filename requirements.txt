@@ -1,0 +1,6 @@
+tinyarray
+tinynumpy
+scipy
+sympy
+pandapy
+datatable
