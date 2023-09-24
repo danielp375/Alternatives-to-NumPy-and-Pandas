@@ -39,4 +39,18 @@ A simple assignment about a few alternatives to NumPy and Pandas
   <li>PandaPy</li>
   <li>Datatables</li>
 </ul>
+<table>
+  <tr>
+    <th>Module</th>
+    <th>Time(in seconds)</th>
+  </tr>
+  <tr>
+    <td>Pandas</td>
+    <td>0.50856</td>
+  </tr>
+  <tr>
+    <td>PandaPy</td>
+    <td>1.92629</td>
+  </tr>
+</table>
 
