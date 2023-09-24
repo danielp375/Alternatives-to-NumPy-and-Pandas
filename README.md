@@ -15,23 +15,23 @@ A simple assignment about a few alternatives to NumPy and Pandas
   </tr>
   <tr>
     <td>NumPy</td>
-    <td></td>
+    <td>0.00349</td>
   </tr>
   <tr>
     <td>Tiny Array</td>
-    <td></td>
+    <td>0.00615</td>
   </tr>
   <tr>
     <td>Tiny NumPy</td>
-    <td></td>
+    <td>0.01016</td>
   </tr>
 <tr>
     <td>SciPy</td>
-    <td></td>
+    <td>0.10705</td>
   </tr>
   <tr>
     <td>SymPy</td>
-    <td></td>
+    <td>0.07572</td>
   </tr>
 </table>
 <h2>Alternatives to Pandas</h2>
